@@ -8,8 +8,6 @@ html{background-image: url(https://i.pinimg.com/750x/c2/d1/1a/c2d11a9a29e4dcba27
 body{
     overflow-x: hidden;
     /*To cancel out access space on the sides of my page*/
-   
-    
 }
 header{
     background-image:  url(https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
@@ -87,16 +85,13 @@ header h1{font-size: xx-large;
     /*(PARENT)The area of my layout and how it should look + the content should fit to max-height of the device*/
 }
 footer{color: #ffffff;}
+/*My button styling*/
 button{
     color: #00ff00;
     box-shadow:#000000;
     background-color: #ff0000;
     border: 3px solid purple;
-    height: auto;
-    
-}
-.onClick{animation-duration: 3s;
-    animation-delay: 3s;
+    height: auto;   
 }
 .one{
     display: grid;
