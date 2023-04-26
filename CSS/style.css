@@ -1,4 +1,4 @@
-html{background-image: url(https://i.pinimg.com/750x/c2/d1/1a/c2d11a9a29e4dcba27b31b925dd6d923.jpg);
+html{background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg);
     background-size: cover;
     max-width: fit-content;
     max-height: fit-content;
@@ -25,10 +25,11 @@ h1{color:#40e0d0;
 }
 
 .navbar{
-    display: inline-block;
-    background-color: #add8e6;
-    color: #ff0000;
-    border: 2px solid firebrick;
+    display: flex;
+    flex-direction: row;
+    background-color: #40e0d0;
+    color: #0000ff;
+    border: 2px solid #000000;
     text-align: center;
     justify-content: space-between;
     gap: 2px;
@@ -75,7 +76,7 @@ img:hover{transform: translateY(-10px);}/*For my image to move 10px upwards when
           /*My grid*/
 .navbar:hover{
     box-shadow: #adff2f;
-    background-color:#00ff00;
+    background-color:#0000ff;
     transform: scaleY(50px);
 }
 
@@ -103,7 +104,7 @@ footer{color: #ffffff;}/*Color for my footer*/
 button{
     color: #00ff00;
     box-shadow:#000000;
-    background-color: #ff0000;
+    background-color: #ffffff;
     border: 3px solid purple;
     height: auto;   
 }
