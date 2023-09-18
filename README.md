@@ -1,15 +1,25 @@
-# NELZON872_BCL2302_Group_Owen_NelsonZongezileMalgas_ITW_9
-Author : Nelson Zongezile Malgas
 
-Thanks to:i.pinimg & usplash for the header and body (background images)
-i.pinimg :https://i.pinimg.com
-unsplash :https://images.unsplash.com
-iconscout:https://iconscout.com/icons/social-media
+# Developer Portfolio - NELZON872_BCL2302_Group_Owen_NelsonZongezileMalgas_ITW_9
 
-Link to my figma wireframe below:
-https://www.figma.com/file/58d2ufBXdW83NZdND1ymBW/NELZON872_BCL232_Group_Owen_NelsonZongezileMalgas_ITW_9?t=XbgqxwptYHWD5JjZ-6
+**Author:** Nelson Zongezile Malgas
 
-Description:
+## Acknowledgments
 
-The purpose of this HTML document is to showcase my skills in HTML & CSS. I have designed this website to be simple and easy to navigate through my resume whille also highlighting my qualifications & experience 
+I would like to express my gratitude to the following sources for their contributions to this project:
+
+- [i.pinimg](https://i.pinimg.com) and [unsplash](https://images.unsplash.com) for providing the header and body background images.
+- [iconscout](https://iconscout.com/icons/social-media) for the social media icons used in the project.
+
+## Figma Wireframe
+
+For a detailed visual representation of this project, please visit the [Figma Wireframe](https://www.figma.com/file/58d2ufBXdW83NZdND1ymBW/NELZON872_BCL232_Group_Owen_NelsonZongezileMalgas_ITW_9?t=XbgqxwptYHWD5JjZ-6).
+
+## Project Description
+
+This HTML document serves as a showcase of my proficiency in HTML and CSS. The primary objective of this website is to provide a user-friendly platform for exploring my professional resume, emphasizing my qualifications and experience. The design is intentionally kept simple for ease of navigation.
+
+---
+
+*Note: This README.md file has been updated for a more professional appearance.*
+
 
