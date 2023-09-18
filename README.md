@@ -20,6 +20,6 @@ This HTML document serves as a showcase of my proficiency in HTML and CSS. The p
 
 ---
 
-*Note: This README.md file has been updated for a more professional appearance.*
+
 
 
