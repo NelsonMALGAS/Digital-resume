@@ -1,4 +1,3 @@
-
 # Developer Portfolio - NELZON872_BCL2302_Group_Owen_NelsonZongezileMalgas_ITW_9
 
 **Author:** Nelson Zongezile Malgas
@@ -12,14 +11,10 @@ I would like to express my gratitude to the following sources for their contribu
 
 ## Figma Wireframe
 
-For a detailed visual representation of this project, please visit the [Figma Wireframe](https://www.figma.com/file/58d2ufBXdW83NZdND1ymBW/NELZON872_BCL232_Group_Owen_NelsonZongezileMalgas_ITW_9?t=XbgqxwptYHWD5JjZ-6).
+📐 **Visual Representation**: Explore the detailed visual representation of this project through our [Figma Wireframe](https://www.figma.com/file/58d2ufBXdW83NZdND1ymBW/NELZON872_BCL232_Group_Owen_NelsonZongezileMalgas_ITW_9?t=XbgqxwptYHWD5JjZ-6).
 
 ## Project Description
 
-This HTML document serves as a showcase of my proficiency in HTML and CSS. The primary objective of this website is to provide a user-friendly platform for exploring my professional resume, emphasizing my qualifications and experience. The design is intentionally kept simple for ease of navigation.
+🚀 **Welcome to My Portfolio!** This HTML document showcases my expertise in HTML and CSS. The primary goal of this website is to provide a user-friendly platform for exploring my professional resume, highlighting my qualifications and experience. The design is intentionally kept simple for seamless navigation.
 
 ---
-
-
-
-
